@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "81d132c4d46b20fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0b2aeeabec88087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a22b811ef562767d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/双链demo/出链.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57ac9519554507e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4324867f0319f3ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b48f1895f55a842",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7711b54ddf92b3a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b80d663fc88a8fd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d93f8a581d2ebef",
+    "type": "split",
+    "children": [
+      {
+        "id": "33eb6844b30d6663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f17d2fb25fb47b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/双链demo/出链.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "642f1e2aa86e7044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian/双链demo/出链.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8651403f8ad46c4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fba1f9cf58776278",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian/双链demo/出链.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "fba1f9cf58776278",
+  "lastOpenFiles": [
+    "obsidian/双链demo/出链.md",
+    "obsidian/双链demo/入链.md",
+    "obsidian/双链demo",
+    "obsidian/双链.md",
+    "obsidian/使用.md",
+    "爬虫/pdf",
+    "爬虫",
+    "openwrt/KVM虚机使用.md",
+    "openwrt",
+    "web3/认知篇.md",
+    "web3",
+    "node/认知篇.md",
+    "obsidian/简介.md",
+    "node",
+    "未命名.canvas",
+    "obsidian"
+  ]
+}
