@@ -1,0 +1,43 @@
+{
+  "recentFiles": [
+    {
+      "basename": "大纲",
+      "path": "java/springboot/大纲.md"
+    },
+    {
+      "basename": "Windows环境",
+      "path": "python/环境/Windows环境.md"
+    },
+    {
+      "basename": "准备篇",
+      "path": "vscode/powershell/准备篇.md"
+    },
+    {
+      "basename": "认知篇",
+      "path": "vscode/powershell/认知篇.md"
+    },
+    {
+      "basename": "使用篇",
+      "path": "爬虫/kingname/MongoDB/使用篇.md"
+    },
+    {
+      "basename": "认知篇",
+      "path": "爬虫/kingname/MongoDB/认知篇.md"
+    },
+    {
+      "basename": "总结与认知",
+      "path": "爬虫/kingname/总结与认知.md"
+    },
+    {
+      "basename": "基础知识",
+      "path": "爬虫/kingname/基础知识.md"
+    },
+    {
+      "basename": "认知篇",
+      "path": "爬虫/kingname/Redis/认知篇.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

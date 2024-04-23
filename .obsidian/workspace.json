@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73a4a98bbd53dded",
+        "id": "4330d4ef58bceb03",
         "type": "tabs",
         "children": [
           {
-            "id": "6487498ee8a27a52",
+            "id": "d5341cbaf14cf0fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "java/springboot/大纲.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9d93f8a581d2ebef",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java/springboot/大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "java/springboot/大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "java/springboot/大纲.md"
+              }
             }
           }
         ],
@@ -135,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,25 +155,38 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "53a9d7a7dae81b43",
+  "active": "d5341cbaf14cf0fd",
   "lastOpenFiles": [
+    "java/springboot/大纲.md",
+    "java/springboot",
+    "python/环境/Windows环境.md",
+    "python/环境",
+    "python",
+    "java",
+    "vscode/powershell/powershell_code/HelloWorld.ps1",
+    "vscode/powershell/powershell_code",
+    "vscode/powershell/新建文件夹",
+    "vscode/powershell/准备篇.md",
+    "vscode/powershell/认知篇.md",
+    "vscode/powershell",
+    "vscode",
+    "爬虫/kingname/MongoDB/使用篇.md",
+    "爬虫/kingname/MongoDB/认知篇.md",
+    "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1-1710863383565-3.png",
+    "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1.png",
+    "爬虫/kingname/MongoDB/assets/image-20240319234935464.png",
+    "爬虫/kingname/MongoDB/assets",
+    "Pasted image 20240319234753.png",
+    "爬虫/kingname/总结与认知.md",
+    "爬虫/kingname/基础知识.md",
+    "爬虫/kingname/Redis/认知篇.md",
     "obsidian/插件.md",
     "diary/2024/lvlongxin.md",
     "templates/会议记录模板.md",
     "templates/日记模板.md",
     "diary/2024/20240318_周一.md",
-    "templates",
     "2024-03-18.md",
-    "diary/2024",
-    "diary",
     "obsidian/技巧和设置.md",
-    "obsidian/tmp/foolpeople.MP3",
-    "obsidian/tmp/a9965e50-2596-4ff1-8a34-c87c1e12ac2b.mp3",
-    "obsidian/tmp/foolaccompany.MP3",
-    "obsidian/tmp/da2bfba6-b6b5-4a28-bcb2-45f9240a9e6a.mp3",
-    "obsidian/tmp/foolsourcefile.MP3",
-    "obsidian/tmp/d6151cae-386b-43fd-8e12-5f1b1af845a7.mp3",
-    "obsidian/tmp/accompany.MP3",
     "obsidian/双链demo/出链.md",
     "obsidian/双链demo/入链.md",
     "obsidian/双链.md",
