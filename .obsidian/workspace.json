@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4330d4ef58bceb03",
+        "id": "83a2f9feb0a3d09a",
         "type": "tabs",
         "children": [
           {
-            "id": "d5341cbaf14cf0fd",
+            "id": "9d60cbb7c54b9908",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/springboot/大纲.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/springboot/大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/springboot/大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "java/springboot/大纲.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,27 +147,31 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d5341cbaf14cf0fd",
+  "active": "9d60cbb7c54b9908",
   "lastOpenFiles": [
+    "java/code_springboot/20240515one/one_demo/target/test-classes/com/example/one_demo/OneDemoApplicationTests.class",
+    "java/code_springboot/20240515one/one_demo/target/test-classes/com/example/one_demo",
+    "java/code_springboot/20240515one/one_demo/target/test-classes/com/example",
+    "java/code_springboot/20240515one/one_demo/target/test-classes/com",
+    "java/code_springboot/20240515one/one_demo/target/test-classes",
+    "java/code_springboot/20240515one/one_demo/target/generated-test-sources/test-annotations",
+    "java/code_springboot/20240515one/one_demo/target/generated-test-sources",
+    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo/OneDemoApplication.class",
+    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo/controller/WelcomeController.class",
+    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo/controller",
+    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo",
+    "java/springboot/ERROR.md",
+    "java/code_springboot/20240515one/one_demo/HELP.md",
+    "java/springboot/20240514one.md",
     "java/springboot/大纲.md",
-    "java/springboot",
     "python/环境/Windows环境.md",
-    "python/环境",
-    "python",
-    "java",
-    "vscode/powershell/powershell_code/HelloWorld.ps1",
-    "vscode/powershell/powershell_code",
-    "vscode/powershell/新建文件夹",
     "vscode/powershell/准备篇.md",
     "vscode/powershell/认知篇.md",
-    "vscode/powershell",
-    "vscode",
     "爬虫/kingname/MongoDB/使用篇.md",
     "爬虫/kingname/MongoDB/认知篇.md",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1-1710863383565-3.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464.png",
-    "爬虫/kingname/MongoDB/assets",
     "Pasted image 20240319234753.png",
     "爬虫/kingname/总结与认知.md",
     "爬虫/kingname/基础知识.md",
@@ -193,8 +189,6 @@
     "obsidian/使用.md",
     "openwrt/KVM虚机使用.md",
     "web3/认知篇.md",
-    "node/认知篇.md",
-    "obsidian/简介.md",
     "未命名.canvas"
   ]
 }
