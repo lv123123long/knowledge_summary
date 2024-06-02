@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "pinia",
+      "path": "node/vue/pinia.md"
+    },
+    {
+      "basename": "pnpm使用篇",
+      "path": "node/vue/pnpm使用篇.md"
+    },
+    {
+      "basename": "pnpm",
+      "path": "node/vue/pnpm.md"
+    },
+    {
+      "basename": "jar",
+      "path": "java/springboot/jar.md"
+    },
+    {
       "basename": "ERROR",
       "path": "java/springboot/ERROR.md"
     },

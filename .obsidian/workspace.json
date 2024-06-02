@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83a2f9feb0a3d09a",
+        "id": "cde4de8236613058",
         "type": "tabs",
         "children": [
           {
-            "id": "9d60cbb7c54b9908",
+            "id": "73baa1a15e921ec4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,16 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "9d60cbb7c54b9908",
+  "active": "73baa1a15e921ec4",
   "lastOpenFiles": [
+    "node/vue/pinia.md",
+    "node/vue/pnpm使用篇.md",
+    "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b.png",
+    "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b-1717314375164-1.png",
+    "node/vue/assets",
+    "node/vue/pnpm.md",
+    "node/vue",
+    "java/springboot/jar.md",
     "java/code_springboot/20240515one/one_demo/target/test-classes/com/example/one_demo/OneDemoApplicationTests.class",
     "java/code_springboot/20240515one/one_demo/target/test-classes/com/example/one_demo",
     "java/code_springboot/20240515one/one_demo/target/test-classes/com/example",
@@ -157,9 +165,6 @@
     "java/code_springboot/20240515one/one_demo/target/generated-test-sources/test-annotations",
     "java/code_springboot/20240515one/one_demo/target/generated-test-sources",
     "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo/OneDemoApplication.class",
-    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo/controller/WelcomeController.class",
-    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo/controller",
-    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo",
     "java/springboot/ERROR.md",
     "java/code_springboot/20240515one/one_demo/HELP.md",
     "java/springboot/20240514one.md",
@@ -186,9 +191,6 @@
     "obsidian/双链demo/出链.md",
     "obsidian/双链demo/入链.md",
     "obsidian/双链.md",
-    "obsidian/使用.md",
-    "openwrt/KVM虚机使用.md",
-    "web3/认知篇.md",
     "未命名.canvas"
   ]
 }
