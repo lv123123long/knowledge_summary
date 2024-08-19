@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cde4de8236613058",
+        "id": "8f0fa7c3b2ee2dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "73baa1a15e921ec4",
+            "id": "4212a94cdaf9b5bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blog/Astro/Astro Github Active.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/Astro/Astro Github Active.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blog/Astro/Astro Github Active.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blog/Astro/Astro Github Active.md"
+              }
             }
           }
         ],
@@ -147,50 +155,52 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "73baa1a15e921ec4",
+  "active": "4212a94cdaf9b5bc",
   "lastOpenFiles": [
+    "Pasted image 20240820002915.png",
+    "Pasted image 20240820002854.png",
+    "blog/Astro/初始化安装.md",
+    "blog/Astro/Astro Github Active.md",
+    "blog/图床/github-jsDelivr-pictlist.md",
+    "blog/图床/obsidian测试.md",
+    "blog/图床/PicList基本使用.md",
+    "blog/图床/minio的维护和使用.md",
+    "blog/图床/minio初始化.md",
+    "node/认知篇.md",
     "node/vue/pinia.md",
+    "node/vue/pnpm.md",
     "node/vue/pnpm使用篇.md",
+    "blog/图床",
+    "linux/dockers/dockers初始化.md",
+    "tailscale",
+    "blog/Astro",
+    "blog",
+    "linux/redis/redis初始化.md",
+    "linux/dockers",
+    "linux/mysql/mysql初始化.md",
+    "linux/redis",
+    "linux/mysql",
+    "go/基础篇.md",
+    "Pasted image 20240816001033.png",
+    "群晖/群晖基础认知.md",
+    "go",
+    "群晖",
+    "linux/centos/安装k8s,docker.md",
+    "linux/centos/初始化换源.md",
+    "linux/centos",
+    "openwrt/KVM虚机使用.md",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b-1717314375164-1.png",
-    "node/vue/assets",
-    "node/vue/pnpm.md",
-    "node/vue",
     "java/springboot/jar.md",
-    "java/code_springboot/20240515one/one_demo/target/test-classes/com/example/one_demo/OneDemoApplicationTests.class",
-    "java/code_springboot/20240515one/one_demo/target/test-classes/com/example/one_demo",
-    "java/code_springboot/20240515one/one_demo/target/test-classes/com/example",
-    "java/code_springboot/20240515one/one_demo/target/test-classes/com",
-    "java/code_springboot/20240515one/one_demo/target/test-classes",
-    "java/code_springboot/20240515one/one_demo/target/generated-test-sources/test-annotations",
-    "java/code_springboot/20240515one/one_demo/target/generated-test-sources",
-    "java/code_springboot/20240515one/one_demo/target/classes/com/example/one_demo/OneDemoApplication.class",
     "java/springboot/ERROR.md",
     "java/code_springboot/20240515one/one_demo/HELP.md",
     "java/springboot/20240514one.md",
     "java/springboot/大纲.md",
     "python/环境/Windows环境.md",
-    "vscode/powershell/准备篇.md",
-    "vscode/powershell/认知篇.md",
-    "爬虫/kingname/MongoDB/使用篇.md",
-    "爬虫/kingname/MongoDB/认知篇.md",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1-1710863383565-3.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464.png",
     "Pasted image 20240319234753.png",
-    "爬虫/kingname/总结与认知.md",
-    "爬虫/kingname/基础知识.md",
-    "爬虫/kingname/Redis/认知篇.md",
-    "obsidian/插件.md",
-    "diary/2024/lvlongxin.md",
-    "templates/会议记录模板.md",
-    "templates/日记模板.md",
-    "diary/2024/20240318_周一.md",
-    "2024-03-18.md",
-    "obsidian/技巧和设置.md",
-    "obsidian/双链demo/出链.md",
-    "obsidian/双链demo/入链.md",
-    "obsidian/双链.md",
     "未命名.canvas"
   ]
 }

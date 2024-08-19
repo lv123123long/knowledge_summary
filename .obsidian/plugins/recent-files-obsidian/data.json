@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Astro Github Active",
+      "path": "blog/Astro/Astro Github Active.md"
+    },
+    {
+      "basename": "初始化安装",
+      "path": "blog/Astro/初始化安装.md"
+    },
+    {
+      "basename": "github-jsDelivr-pictlist",
+      "path": "blog/图床/github-jsDelivr-pictlist.md"
+    },
+    {
+      "basename": "obsidian测试",
+      "path": "blog/图床/obsidian测试.md"
+    },
+    {
+      "basename": "PicList基本使用",
+      "path": "blog/图床/PicList基本使用.md"
+    },
+    {
+      "basename": "minio的维护和使用",
+      "path": "blog/图床/minio的维护和使用.md"
+    },
+    {
+      "basename": "minio初始化",
+      "path": "blog/图床/minio初始化.md"
+    },
+    {
+      "basename": "认知篇",
+      "path": "node/认知篇.md"
+    },
+    {
       "basename": "pinia",
       "path": "node/vue/pinia.md"
+    },
+    {
+      "basename": "pnpm",
+      "path": "node/vue/pnpm.md"
     },
     {
       "basename": "pnpm使用篇",
       "path": "node/vue/pnpm使用篇.md"
     },
     {
-      "basename": "pnpm",
-      "path": "node/vue/pnpm.md"
+      "basename": "dockers初始化",
+      "path": "linux/dockers/dockers初始化.md"
+    },
+    {
+      "basename": "redis初始化",
+      "path": "linux/redis/redis初始化.md"
+    },
+    {
+      "basename": "mysql初始化",
+      "path": "linux/mysql/mysql初始化.md"
+    },
+    {
+      "basename": "基础篇",
+      "path": "go/基础篇.md"
+    },
+    {
+      "basename": "群晖基础认知",
+      "path": "群晖/群晖基础认知.md"
+    },
+    {
+      "basename": "安装k8s,docker",
+      "path": "linux/centos/安装k8s,docker.md"
+    },
+    {
+      "basename": "初始化换源",
+      "path": "linux/centos/初始化换源.md"
+    },
+    {
+      "basename": "KVM虚机使用",
+      "path": "openwrt/KVM虚机使用.md"
     },
     {
       "basename": "jar",

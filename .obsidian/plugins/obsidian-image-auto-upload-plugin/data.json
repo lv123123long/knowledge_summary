@@ -1,0 +1,30 @@
+{
+  "uploadByClipSwitch": true,
+  "uploader": "PicGo",
+  "uploadServer": "http://127.0.0.1:36677/upload",
+  "deleteServer": "http://127.0.0.1:36677/delete",
+  "imageSizeSuffix": "",
+  "picgoCorePath": "",
+  "workOnNetWork": false,
+  "fixPath": false,
+  "applyImage": true,
+  "newWorkBlackDomains": "",
+  "deleteSource": false,
+  "imageDesc": "origin",
+  "remoteServerMode": false,
+  "uploadedImages": [
+    {
+      "isEncrypted": 1,
+      "EncryptedData": "03f9f98f67acb770d6fcfa2a86ace930:9509b318f2143cb42baf0503c4626e2bec0288a1aa6576d86757169703639e90e1e7093a1342777b90b0c53f54efee039acfdea05620d370a809ddca2dacaf5fe24c64ba1bc758e1ebb2ab070c3024376593c419d464df28c0aabcae48d9bbe685e8fa8d5d8ca6b914c466c974b905342e5677a5ffbf3319734dc9bd92a20740ecfa10629c2b438dd8bf1a6fdd090009c2d770cfe401a89dd9c9df242815f96ee4a3cfd223b58dc5e78575a699f36d81a28753bcd7316de0695b397ea03c184a4782da416149549c6b401a0cc5c0eeb1c85682aa33a1264b9fe24d241c04d2798eb113a45b59483dde04e3823ca78e764bf5c384b8edd611afd8c17339a35d04ecc59954dc4dced11abca1ce719b0776ffa2a4021eb43a7d27db554c91ad7f8dd8a46895d22e3c5a3131d8e0e8fbd453bdb3d91376168fba93cf90324a3b507539ce619d6b389048cf33a3f222f3b2502f4d2fe5233f8ce0ee4356099dc0474ee9df45d3cdb9bc1d604f09266c5fa4c30eb391489a21e653ecd0b624da99911d6905772c2cce1b87aabc74474c372877448030cf30bf625aa8761900c3b644e4aacb5422bafb2ae6d26efce2ea7f3542ad9f4ece015293bf5564770d491e7dc662458754f1972c4e820f61799633a71464b628de5305bfeba1ec9a2298a0c8bf90bae4573d45c5dbccfe4284242959a40ce544064c905b9cc7a69806277f417fd2bbd55be2229795b8e1c2077cd8629413e08c6906bd64a69c516b2aac1fd9ff0bc602dcba6cb8c136d5c88688603881d4b1ef3970bb5e34cb0b409977432abc5c86d1eaebbe49a88b61dac9347326464af7c3a282fe7b2c7e3c39ee2a08f588011ee01027f767fa19dfec4165022f653eaf29608200248b47a05f0a7f00cc14",
+      "fileName": "微信图片_20240610204950.jpg",
+      "width": 4032,
+      "height": 3024,
+      "extname": ".jpg",
+      "imgUrl": "http://101.42.107.248:9000/weichen/微信图片_20240610204950.jpg",
+      "type": "minio",
+      "id": "cc5fbf1d-4a74-49d2-950e-992a41710c0e",
+      "createdAt": 1723990381447,
+      "updatedAt": 1723990381447
+    }
+  ]
+}
