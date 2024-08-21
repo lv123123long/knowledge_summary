@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "pyenv",
+      "path": "python/环境/pyenv.md"
+    },
+    {
+      "basename": "PDM",
+      "path": "python/环境/PDM.md"
+    },
+    {
+      "basename": "path列表",
+      "path": "Windows/环境变量/path列表.md"
+    },
+    {
+      "basename": "Windows环境",
+      "path": "python/环境/Windows环境.md"
+    },
+    {
       "basename": "Astro Github Active",
       "path": "blog/Astro/Astro Github Active.md"
     },
@@ -91,10 +107,6 @@
     {
       "basename": "大纲",
       "path": "java/springboot/大纲.md"
-    },
-    {
-      "basename": "Windows环境",
-      "path": "python/环境/Windows环境.md"
     },
     {
       "basename": "准备篇",

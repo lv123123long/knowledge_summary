@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f0fa7c3b2ee2dfa",
+        "id": "36216c150acba3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "4212a94cdaf9b5bc",
+            "id": "d3cc2390932c2040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Astro/Astro Github Active.md",
+                "file": "python/环境/pyenv.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/Astro/Astro Github Active.md",
+                "file": "python/环境/pyenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/Astro/Astro Github Active.md",
+                "file": "python/环境/pyenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/Astro/Astro Github Active.md"
+                "file": "python/环境/pyenv.md"
               }
             }
           }
@@ -155,12 +155,18 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "4212a94cdaf9b5bc",
+  "active": "d3cc2390932c2040",
   "lastOpenFiles": [
+    "python/环境/PDM.md",
+    "python/环境/pyenv.md",
+    "Windows/环境变量/path列表.md",
+    "Windows/环境变量",
+    "Windows",
+    "python/环境/Windows环境.md",
+    "blog/Astro/Astro Github Active.md",
     "Pasted image 20240820002915.png",
     "Pasted image 20240820002854.png",
     "blog/Astro/初始化安装.md",
-    "blog/Astro/Astro Github Active.md",
     "blog/图床/github-jsDelivr-pictlist.md",
     "blog/图床/obsidian测试.md",
     "blog/图床/PicList基本使用.md",
@@ -184,19 +190,14 @@
     "Pasted image 20240816001033.png",
     "群晖/群晖基础认知.md",
     "go",
-    "群晖",
     "linux/centos/安装k8s,docker.md",
     "linux/centos/初始化换源.md",
-    "linux/centos",
     "openwrt/KVM虚机使用.md",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b-1717314375164-1.png",
     "java/springboot/jar.md",
     "java/springboot/ERROR.md",
     "java/code_springboot/20240515one/one_demo/HELP.md",
-    "java/springboot/20240514one.md",
-    "java/springboot/大纲.md",
-    "python/环境/Windows环境.md",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1-1710863383565-3.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464.png",
