@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "miniconda",
+      "path": "linux/centos/miniconda/miniconda.md"
+    },
+    {
+      "basename": "conda",
+      "path": "linux/centos/miniconda/conda.md"
+    },
+    {
+      "basename": "ansible",
+      "path": "linux/centos/miniconda/ansible.md"
+    },
+    {
+      "basename": "pip源",
+      "path": "linux/centos/pip源.md"
+    },
+    {
+      "basename": "安装k8s,docker",
+      "path": "linux/centos/安装k8s,docker.md"
+    },
+    {
+      "basename": "初始化换源",
+      "path": "linux/centos/初始化换源.md"
+    },
+    {
+      "basename": "20240918_周三",
+      "path": "diary/2024/20240918_周三.md"
+    },
+    {
+      "basename": "20240318_周一",
+      "path": "diary/2024/20240318_周一.md"
+    },
+    {
+      "basename": "path列表",
+      "path": "Windows/环境变量/path列表.md"
+    },
+    {
+      "basename": "python环境",
+      "path": "linux/Ubuntu/python环境.md"
+    },
+    {
+      "basename": "pnpm使用篇",
+      "path": "node/vue/pnpm使用篇.md"
+    },
+    {
+      "basename": "认知篇",
+      "path": "node/认知篇.md"
+    },
+    {
+      "basename": "Windows环境",
+      "path": "python/环境/Windows环境.md"
+    },
+    {
       "basename": "pyenv",
       "path": "python/环境/pyenv.md"
     },
@@ -9,12 +61,20 @@
       "path": "python/环境/PDM.md"
     },
     {
-      "basename": "path列表",
-      "path": "Windows/环境变量/path列表.md"
+      "basename": "初始化",
+      "path": "node/vue/推箱子项目/初始化.md"
     },
     {
-      "basename": "Windows环境",
-      "path": "python/环境/Windows环境.md"
+      "basename": "地图",
+      "path": "node/vue/推箱子项目/地图.md"
+    },
+    {
+      "basename": "pnpm",
+      "path": "node/vue/pnpm.md"
+    },
+    {
+      "basename": "报错排查",
+      "path": "node/Astro/报错排查.md"
     },
     {
       "basename": "Astro Github Active",
@@ -45,20 +105,8 @@
       "path": "blog/图床/minio初始化.md"
     },
     {
-      "basename": "认知篇",
-      "path": "node/认知篇.md"
-    },
-    {
       "basename": "pinia",
       "path": "node/vue/pinia.md"
-    },
-    {
-      "basename": "pnpm",
-      "path": "node/vue/pnpm.md"
-    },
-    {
-      "basename": "pnpm使用篇",
-      "path": "node/vue/pnpm使用篇.md"
     },
     {
       "basename": "dockers初始化",
@@ -79,14 +127,6 @@
     {
       "basename": "群晖基础认知",
       "path": "群晖/群晖基础认知.md"
-    },
-    {
-      "basename": "安装k8s,docker",
-      "path": "linux/centos/安装k8s,docker.md"
-    },
-    {
-      "basename": "初始化换源",
-      "path": "linux/centos/初始化换源.md"
     },
     {
       "basename": "KVM虚机使用",

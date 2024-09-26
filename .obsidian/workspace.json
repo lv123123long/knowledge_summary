@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36216c150acba3bc",
+        "id": "01cd5520d93f710e",
         "type": "tabs",
         "children": [
           {
-            "id": "d3cc2390932c2040",
+            "id": "45d2b1b145344b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/环境/pyenv.md",
+                "file": "linux/centos/miniconda/miniconda.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/环境/pyenv.md",
+                "file": "linux/centos/miniconda/miniconda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/环境/pyenv.md",
+                "file": "linux/centos/miniconda/miniconda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/环境/pyenv.md"
+                "file": "linux/centos/miniconda/miniconda.md"
               }
             }
           }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,14 +155,33 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d3cc2390932c2040",
+  "active": "45d2b1b145344b59",
   "lastOpenFiles": [
-    "python/环境/PDM.md",
-    "python/环境/pyenv.md",
+    "linux/centos/miniconda/conda.md",
+    "linux/centos/miniconda/miniconda.md",
+    "linux/centos/miniconda/ansible.md",
+    "linux/centos/pip源.md",
+    "linux/centos/安装k8s,docker.md",
+    "linux/centos/miniconda",
+    "linux/centos/初始化换源.md",
+    "diary/2024/20240918_周三.md",
+    "diary/2024/20240318_周一.md",
     "Windows/环境变量/path列表.md",
+    "linux/Ubuntu/python环境.md",
+    "node/vue/pnpm使用篇.md",
+    "linux/Ubuntu",
+    "node/认知篇.md",
+    "python/环境/Windows环境.md",
+    "python/环境/pyenv.md",
+    "python/环境/PDM.md",
+    "node/vue/推箱子项目/初始化.md",
+    "node/vue/推箱子项目/地图.md",
+    "node/vue/pnpm.md",
+    "node/vue/推箱子项目",
+    "node/Astro/报错排查.md",
+    "node/Astro",
     "Windows/环境变量",
     "Windows",
-    "python/环境/Windows环境.md",
     "blog/Astro/Astro Github Active.md",
     "Pasted image 20240820002915.png",
     "Pasted image 20240820002854.png",
@@ -172,32 +191,13 @@
     "blog/图床/PicList基本使用.md",
     "blog/图床/minio的维护和使用.md",
     "blog/图床/minio初始化.md",
-    "node/认知篇.md",
-    "node/vue/pinia.md",
-    "node/vue/pnpm.md",
-    "node/vue/pnpm使用篇.md",
     "blog/图床",
-    "linux/dockers/dockers初始化.md",
     "tailscale",
     "blog/Astro",
     "blog",
-    "linux/redis/redis初始化.md",
-    "linux/dockers",
-    "linux/mysql/mysql初始化.md",
-    "linux/redis",
-    "linux/mysql",
-    "go/基础篇.md",
     "Pasted image 20240816001033.png",
-    "群晖/群晖基础认知.md",
-    "go",
-    "linux/centos/安装k8s,docker.md",
-    "linux/centos/初始化换源.md",
-    "openwrt/KVM虚机使用.md",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b-1717314375164-1.png",
-    "java/springboot/jar.md",
-    "java/springboot/ERROR.md",
-    "java/code_springboot/20240515one/one_demo/HELP.md",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1-1710863383565-3.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464.png",
