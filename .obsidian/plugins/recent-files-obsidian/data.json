@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "重点十点",
+      "path": "redis/重点十点.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "redis/数据结构.md"
+    },
+    {
+      "basename": "外部应用",
+      "path": "redis/外部应用.md"
+    },
+    {
+      "basename": "内部组件",
+      "path": "redis/内部组件.md"
+    },
+    {
+      "basename": "inventory",
+      "path": "linux/centos/ansible/inventory.md"
+    },
+    {
       "basename": "miniconda",
       "path": "linux/centos/miniconda/miniconda.md"
     },
     {
-      "basename": "conda",
-      "path": "linux/centos/miniconda/conda.md"
-    },
-    {
       "basename": "ansible",
       "path": "linux/centos/miniconda/ansible.md"
+    },
+    {
+      "basename": "conda",
+      "path": "linux/centos/miniconda/conda.md"
     },
     {
       "basename": "pip源",

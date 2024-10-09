@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/centos/miniconda/miniconda.md",
+                "file": "redis/重点十点.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/centos/miniconda/miniconda.md",
+                "file": "redis/重点十点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/centos/miniconda/miniconda.md",
+                "file": "redis/重点十点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/centos/miniconda/miniconda.md"
+                "file": "redis/重点十点.md"
               }
             }
           }
@@ -157,9 +157,16 @@
   },
   "active": "45d2b1b145344b59",
   "lastOpenFiles": [
-    "linux/centos/miniconda/conda.md",
+    "redis/数据结构.md",
+    "redis/重点十点.md",
+    "redis/外部应用.md",
+    "redis/内部组件.md",
+    "linux/centos/ansible/inventory.md",
+    "redis",
     "linux/centos/miniconda/miniconda.md",
+    "linux/centos/ansible",
     "linux/centos/miniconda/ansible.md",
+    "linux/centos/miniconda/conda.md",
     "linux/centos/pip源.md",
     "linux/centos/安装k8s,docker.md",
     "linux/centos/miniconda",
@@ -186,15 +193,8 @@
     "Pasted image 20240820002915.png",
     "Pasted image 20240820002854.png",
     "blog/Astro/初始化安装.md",
-    "blog/图床/github-jsDelivr-pictlist.md",
-    "blog/图床/obsidian测试.md",
-    "blog/图床/PicList基本使用.md",
-    "blog/图床/minio的维护和使用.md",
-    "blog/图床/minio初始化.md",
     "blog/图床",
     "tailscale",
-    "blog/Astro",
-    "blog",
     "Pasted image 20240816001033.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b-1717314375164-1.png",
