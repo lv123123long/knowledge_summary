@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "vLLM概述",
+      "path": "Ai/vLLM/vLLM概述.md"
+    },
+    {
+      "basename": "qwen概述",
+      "path": "Ai/qwen/qwen概述.md"
+    },
+    {
+      "basename": "AI",
+      "path": "work/AI/AI.md"
+    },
+    {
+      "basename": "uiautomator2的使用",
+      "path": "Android/uiautomator2的使用.md"
+    },
+    {
+      "basename": "adb安装",
+      "path": "Android/adb安装.md"
+    },
+    {
+      "basename": "常用命令",
+      "path": "python/环境/conda/常用命令.md"
+    },
+    {
+      "basename": "运维方向",
+      "path": "work/运维方向.md"
+    },
+    {
+      "basename": "PDM",
+      "path": "python/环境/PDM.md"
+    },
+    {
       "basename": "重点十点",
       "path": "redis/重点十点.md"
     },
@@ -75,10 +107,6 @@
     {
       "basename": "pyenv",
       "path": "python/环境/pyenv.md"
-    },
-    {
-      "basename": "PDM",
-      "path": "python/环境/PDM.md"
     },
     {
       "basename": "初始化",
@@ -171,30 +199,6 @@
     {
       "basename": "准备篇",
       "path": "vscode/powershell/准备篇.md"
-    },
-    {
-      "basename": "认知篇",
-      "path": "vscode/powershell/认知篇.md"
-    },
-    {
-      "basename": "使用篇",
-      "path": "爬虫/kingname/MongoDB/使用篇.md"
-    },
-    {
-      "basename": "认知篇",
-      "path": "爬虫/kingname/MongoDB/认知篇.md"
-    },
-    {
-      "basename": "总结与认知",
-      "path": "爬虫/kingname/总结与认知.md"
-    },
-    {
-      "basename": "基础知识",
-      "path": "爬虫/kingname/基础知识.md"
-    },
-    {
-      "basename": "认知篇",
-      "path": "爬虫/kingname/Redis/认知篇.md"
     }
   ],
   "omittedPaths": [],

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01cd5520d93f710e",
+        "id": "24fcd28794582b47",
         "type": "tabs",
         "children": [
           {
-            "id": "45d2b1b145344b59",
+            "id": "8f8a53fee2bb8cea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/重点十点.md",
+                "file": "Ai/vLLM/vLLM概述.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "vLLM概述"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis/重点十点.md",
+                "file": "python/环境/conda/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "常用命令 的反向链接列表"
             }
           },
           {
@@ -110,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis/重点十点.md",
+                "file": "python/环境/conda/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "常用命令 的出链列表"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis/重点十点.md"
-              }
+                "file": "Ai/vLLM/vLLM概述.md"
+              },
+              "icon": "lucide-list",
+              "title": "vLLM概述 的大纲"
             }
           }
         ],
@@ -155,10 +173,27 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "45d2b1b145344b59",
+  "active": "8f8a53fee2bb8cea",
   "lastOpenFiles": [
-    "redis/数据结构.md",
+    "Ai/qwen/qwen概述.md",
+    "Ai/vLLM/vLLM概述.md",
+    "Ai/vLLM",
+    "work/AI/AI.md",
+    "Ai/qwen",
+    "Android/uiautomator2的使用.md",
+    "Pasted image 20241101231327.png",
+    "Android/adb安装.md",
+    "python/环境/conda/常用命令.md",
+    "work/运维方向.md",
+    "Android",
+    "python/环境/PDM.md",
+    "python/环境/conda",
+    "Pasted image 20241019232629.png",
+    "work/AI",
+    "Pasted image 20241019230910.png",
     "redis/重点十点.md",
+    "work",
+    "redis/数据结构.md",
     "redis/外部应用.md",
     "redis/内部组件.md",
     "linux/centos/ansible/inventory.md",
@@ -179,29 +214,13 @@
     "linux/Ubuntu",
     "node/认知篇.md",
     "python/环境/Windows环境.md",
-    "python/环境/pyenv.md",
-    "python/环境/PDM.md",
-    "node/vue/推箱子项目/初始化.md",
-    "node/vue/推箱子项目/地图.md",
-    "node/vue/pnpm.md",
-    "node/vue/推箱子项目",
-    "node/Astro/报错排查.md",
-    "node/Astro",
-    "Windows/环境变量",
-    "Windows",
-    "blog/Astro/Astro Github Active.md",
     "Pasted image 20240820002915.png",
     "Pasted image 20240820002854.png",
-    "blog/Astro/初始化安装.md",
-    "blog/图床",
-    "tailscale",
     "Pasted image 20240816001033.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b-1717314375164-1.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1-1710863383565-3.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1.png",
-    "爬虫/kingname/MongoDB/assets/image-20240319234935464.png",
-    "Pasted image 20240319234753.png",
     "未命名.canvas"
   ]
 }
