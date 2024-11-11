@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Qwen-Coder",
+      "path": "Ai/qwen/Qwen-Coder.md"
+    },
+    {
       "basename": "vLLM概述",
       "path": "Ai/vLLM/vLLM概述.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大纲",
       "path": "java/springboot/大纲.md"
-    },
-    {
-      "basename": "准备篇",
-      "path": "vscode/powershell/准备篇.md"
     }
   ],
   "omittedPaths": [],

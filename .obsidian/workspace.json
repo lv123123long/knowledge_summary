@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/vLLM/vLLM概述.md",
+                "file": "Ai/qwen/Qwen-Coder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vLLM概述"
+              "title": "Qwen-Coder"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ai/vLLM/vLLM概述.md"
+                "file": "Ai/qwen/Qwen-Coder.md"
               },
               "icon": "lucide-list",
-              "title": "vLLM概述 的大纲"
+              "title": "Qwen-Coder 的大纲"
             }
           }
         ],
@@ -175,8 +175,14 @@
   },
   "active": "8f8a53fee2bb8cea",
   "lastOpenFiles": [
-    "Ai/qwen/qwen概述.md",
     "Ai/vLLM/vLLM概述.md",
+    "Ai/qwen/Qwen-Coder.md",
+    "Ai/vLLM/deploy/vllm_model.py",
+    "Ai/vLLM/deploy/model_download.py",
+    "Ai/vLLM/deploy",
+    "Ai/vLLM/deplay",
+    "Ai/vLLM/新建文件夹",
+    "Ai/qwen/qwen概述.md",
     "Ai/vLLM",
     "work/AI/AI.md",
     "Ai/qwen",
@@ -192,28 +198,22 @@
     "work/AI",
     "Pasted image 20241019230910.png",
     "redis/重点十点.md",
-    "work",
     "redis/数据结构.md",
     "redis/外部应用.md",
     "redis/内部组件.md",
     "linux/centos/ansible/inventory.md",
-    "redis",
     "linux/centos/miniconda/miniconda.md",
-    "linux/centos/ansible",
     "linux/centos/miniconda/ansible.md",
     "linux/centos/miniconda/conda.md",
     "linux/centos/pip源.md",
     "linux/centos/安装k8s,docker.md",
-    "linux/centos/miniconda",
     "linux/centos/初始化换源.md",
     "diary/2024/20240918_周三.md",
     "diary/2024/20240318_周一.md",
     "Windows/环境变量/path列表.md",
     "linux/Ubuntu/python环境.md",
     "node/vue/pnpm使用篇.md",
-    "linux/Ubuntu",
     "node/认知篇.md",
-    "python/环境/Windows环境.md",
     "Pasted image 20240820002915.png",
     "Pasted image 20240820002854.png",
     "Pasted image 20240816001033.png",
