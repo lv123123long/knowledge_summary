@@ -1,132 +1,188 @@
 {
   "recentFiles": [
     {
-      "basename": "Qwen-Coder",
-      "path": "Ai/qwen/Qwen-Coder.md"
+      "basename": "自动驾驶",
+      "path": "运维/测试/自动驾驶/自动驾驶.md"
     },
     {
-      "basename": "vLLM概述",
-      "path": "Ai/vLLM/vLLM概述.md"
+      "basename": "字典",
+      "path": "python/技巧/字典.md"
     },
     {
-      "basename": "qwen概述",
-      "path": "Ai/qwen/qwen概述.md"
+      "basename": "数组",
+      "path": "python/技巧/数组.md"
     },
     {
-      "basename": "AI",
-      "path": "work/AI/AI.md"
+      "basename": "TCP",
+      "path": "运维/测试/测试问题/2025问题/TCP.md"
     },
     {
-      "basename": "uiautomator2的使用",
-      "path": "Android/uiautomator2的使用.md"
+      "basename": "pytest",
+      "path": "运维/测试/测试问题/2025问题/pytest.md"
     },
     {
-      "basename": "adb安装",
-      "path": "Android/adb安装.md"
+      "basename": "mysql 索引",
+      "path": "运维/测试/测试问题/2025问题/mysql 索引.md"
     },
     {
-      "basename": "常用命令",
-      "path": "python/环境/conda/常用命令.md"
+      "basename": "get和post",
+      "path": "运维/测试/测试问题/2025问题/get和post.md"
     },
     {
-      "basename": "运维方向",
-      "path": "work/运维方向.md"
+      "basename": "性能压测",
+      "path": "运维/测试/测试问题/2025问题/性能压测.md"
     },
     {
-      "basename": "PDM",
-      "path": "python/环境/PDM.md"
+      "basename": "数据库事务",
+      "path": "运维/测试/测试问题/2025问题/数据库事务.md"
     },
     {
-      "basename": "重点十点",
-      "path": "redis/重点十点.md"
+      "basename": "接口测试",
+      "path": "运维/测试/测试问题/2025问题/接口测试.md"
     },
     {
-      "basename": "数据结构",
-      "path": "redis/数据结构.md"
+      "basename": "测试策略",
+      "path": "运维/测试/测试问题/2025问题/测试策略.md"
     },
     {
-      "basename": "外部应用",
-      "path": "redis/外部应用.md"
+      "basename": "kafka",
+      "path": "运维/测试/测试问题/2025问题/kafka/kafka.md"
     },
     {
-      "basename": "内部组件",
-      "path": "redis/内部组件.md"
-    },
-    {
-      "basename": "inventory",
-      "path": "linux/centos/ansible/inventory.md"
-    },
-    {
-      "basename": "miniconda",
-      "path": "linux/centos/miniconda/miniconda.md"
-    },
-    {
-      "basename": "ansible",
-      "path": "linux/centos/miniconda/ansible.md"
-    },
-    {
-      "basename": "conda",
-      "path": "linux/centos/miniconda/conda.md"
-    },
-    {
-      "basename": "pip源",
-      "path": "linux/centos/pip源.md"
-    },
-    {
-      "basename": "安装k8s,docker",
-      "path": "linux/centos/安装k8s,docker.md"
-    },
-    {
-      "basename": "初始化换源",
-      "path": "linux/centos/初始化换源.md"
+      "basename": "kafka数据积压",
+      "path": "运维/测试/测试问题/2025问题/kafka/kafka数据积压.md"
     },
     {
       "basename": "20240918_周三",
       "path": "diary/2024/20240918_周三.md"
     },
     {
-      "basename": "20240318_周一",
-      "path": "diary/2024/20240318_周一.md"
+      "basename": "运维方向",
+      "path": "work/运维方向.md"
     },
     {
-      "basename": "path列表",
-      "path": "Windows/环境变量/path列表.md"
+      "basename": "设计方法",
+      "path": "运维/测试/设计测试用例/设计方法.md"
     },
     {
-      "basename": "python环境",
-      "path": "linux/Ubuntu/python环境.md"
+      "basename": "网络的七层架构",
+      "path": "运维/测试/测试问题/网络的七层架构.md"
     },
     {
-      "basename": "pnpm使用篇",
-      "path": "node/vue/pnpm使用篇.md"
+      "basename": "并发中的缓存问题",
+      "path": "运维/测试/测试问题/并发中的缓存问题.md"
     },
     {
-      "basename": "认知篇",
-      "path": "node/认知篇.md"
+      "basename": "ES特性",
+      "path": "运维/测试/测试问题/2025问题/ES特性.md"
     },
     {
-      "basename": "Windows环境",
-      "path": "python/环境/Windows环境.md"
+      "basename": "clickhoue特性",
+      "path": "运维/测试/测试问题/2025问题/clickhoue特性.md"
     },
     {
-      "basename": "pyenv",
-      "path": "python/环境/pyenv.md"
+      "basename": "nexus",
+      "path": "运维/测试/测试工具/nexus.md"
     },
     {
-      "basename": "初始化",
-      "path": "node/vue/推箱子项目/初始化.md"
+      "basename": "常用命令",
+      "path": "python/环境/conda/常用命令.md"
     },
     {
-      "basename": "地图",
-      "path": "node/vue/推箱子项目/地图.md"
+      "basename": "所见即所得",
+      "path": "爬虫/斗罗/所见即所得.md"
     },
     {
-      "basename": "pnpm",
-      "path": "node/vue/pnpm.md"
+      "basename": "工具差异性",
+      "path": "运维/测试/测试工具/工具差异性.md"
     },
     {
-      "basename": "报错排查",
-      "path": "node/Astro/报错排查.md"
+      "basename": "App测试",
+      "path": "运维/测试/App测试.md"
+    },
+    {
+      "basename": "清理C盘",
+      "path": "运维/windows/清理C盘.md"
+    },
+    {
+      "basename": "uiautomator2的使用",
+      "path": "Android/uiautomator2的使用.md"
+    },
+    {
+      "basename": "tailscale概述",
+      "path": "群晖/tailscale/tailscale概述.md"
+    },
+    {
+      "basename": "项目依赖",
+      "path": "node/ts/项目依赖.md"
+    },
+    {
+      "basename": "源码阅读",
+      "path": "node/ts/源码阅读.md"
+    },
+    {
+      "basename": "docker",
+      "path": "node/ubuntu/docker.md"
+    },
+    {
+      "basename": "nvm安装",
+      "path": "node/ubuntu/nvm安装.md"
+    },
+    {
+      "basename": "github上传文件",
+      "path": "运维/git/github上传文件.md"
+    },
+    {
+      "basename": "实践安装k8s",
+      "path": "python/ansible/实践安装k8s.md"
+    },
+    {
+      "basename": "ansible-playbook",
+      "path": "python/ansible/ansible-playbook.md"
+    },
+    {
+      "basename": "安装",
+      "path": "python/ansible/安装.md"
+    },
+    {
+      "basename": "环境env",
+      "path": "go/环境env.md"
+    },
+    {
+      "basename": "package",
+      "path": "go/package.md"
+    },
+    {
+      "basename": "基础使用",
+      "path": "群晖/gitlab/基础使用.md"
+    },
+    {
+      "basename": "换源",
+      "path": "群晖/docker/换源.md"
+    },
+    {
+      "basename": "使用手册",
+      "path": "Ai/Django/使用手册.md"
+    },
+    {
+      "basename": "PDM",
+      "path": "python/环境/PDM.md"
+    },
+    {
+      "basename": "getting started",
+      "path": "node/tailwind/getting started.md"
+    },
+    {
+      "basename": "vscode插件",
+      "path": "node/tailwind/vscode插件.md"
+    },
+    {
+      "basename": "Unknown at rule @xxx的警告",
+      "path": "node/ERROR/Unknown at rule @xxx的警告.md"
+    },
+    {
+      "basename": "github-jsDelivr-pictlist",
+      "path": "blog/图床/github-jsDelivr-pictlist.md"
     },
     {
       "basename": "Astro Github Active",
@@ -137,68 +193,12 @@
       "path": "blog/Astro/初始化安装.md"
     },
     {
-      "basename": "github-jsDelivr-pictlist",
-      "path": "blog/图床/github-jsDelivr-pictlist.md"
+      "basename": "报错排查",
+      "path": "node/Astro/报错排查.md"
     },
     {
-      "basename": "obsidian测试",
-      "path": "blog/图床/obsidian测试.md"
-    },
-    {
-      "basename": "PicList基本使用",
-      "path": "blog/图床/PicList基本使用.md"
-    },
-    {
-      "basename": "minio的维护和使用",
-      "path": "blog/图床/minio的维护和使用.md"
-    },
-    {
-      "basename": "minio初始化",
-      "path": "blog/图床/minio初始化.md"
-    },
-    {
-      "basename": "pinia",
-      "path": "node/vue/pinia.md"
-    },
-    {
-      "basename": "dockers初始化",
-      "path": "linux/dockers/dockers初始化.md"
-    },
-    {
-      "basename": "redis初始化",
-      "path": "linux/redis/redis初始化.md"
-    },
-    {
-      "basename": "mysql初始化",
-      "path": "linux/mysql/mysql初始化.md"
-    },
-    {
-      "basename": "基础篇",
-      "path": "go/基础篇.md"
-    },
-    {
-      "basename": "群晖基础认知",
-      "path": "群晖/群晖基础认知.md"
-    },
-    {
-      "basename": "KVM虚机使用",
-      "path": "openwrt/KVM虚机使用.md"
-    },
-    {
-      "basename": "jar",
-      "path": "java/springboot/jar.md"
-    },
-    {
-      "basename": "ERROR",
-      "path": "java/springboot/ERROR.md"
-    },
-    {
-      "basename": "20240514one",
-      "path": "java/springboot/20240514one.md"
-    },
-    {
-      "basename": "大纲",
-      "path": "java/springboot/大纲.md"
+      "basename": "Qwen-Coder",
+      "path": "Ai/qwen/Qwen-Coder.md"
     }
   ],
   "omittedPaths": [],

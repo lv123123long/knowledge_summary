@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "24fcd28794582b47",
+        "id": "50fa9e648d793adf",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8a53fee2bb8cea",
+            "id": "7dcb9f6f963aef99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/qwen/Qwen-Coder.md",
+                "file": "运维/测试/自动驾驶/自动驾驶.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qwen-Coder"
+              "title": "自动驾驶"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kafka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,10 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ai/qwen/Qwen-Coder.md"
+                "file": "运维/测试/自动驾驶/自动驾驶.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Qwen-Coder 的大纲"
+              "title": "自动驾驶 的大纲"
             }
           }
         ],
@@ -173,54 +177,54 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "8f8a53fee2bb8cea",
+  "active": "7dcb9f6f963aef99",
   "lastOpenFiles": [
-    "Ai/vLLM/vLLM概述.md",
-    "Ai/qwen/Qwen-Coder.md",
-    "Ai/vLLM/deploy/vllm_model.py",
-    "Ai/vLLM/deploy/model_download.py",
-    "Ai/vLLM/deploy",
-    "Ai/vLLM/deplay",
-    "Ai/vLLM/新建文件夹",
-    "Ai/qwen/qwen概述.md",
-    "Ai/vLLM",
-    "work/AI/AI.md",
-    "Ai/qwen",
-    "Android/uiautomator2的使用.md",
-    "Pasted image 20241101231327.png",
-    "Android/adb安装.md",
-    "python/环境/conda/常用命令.md",
-    "work/运维方向.md",
-    "Android",
-    "python/环境/PDM.md",
-    "python/环境/conda",
-    "Pasted image 20241019232629.png",
-    "work/AI",
-    "Pasted image 20241019230910.png",
-    "redis/重点十点.md",
-    "redis/数据结构.md",
-    "redis/外部应用.md",
-    "redis/内部组件.md",
-    "linux/centos/ansible/inventory.md",
-    "linux/centos/miniconda/miniconda.md",
-    "linux/centos/miniconda/ansible.md",
-    "linux/centos/miniconda/conda.md",
-    "linux/centos/pip源.md",
-    "linux/centos/安装k8s,docker.md",
-    "linux/centos/初始化换源.md",
+    "python/技巧/字典.md",
+    "运维/测试/自动驾驶/自动驾驶.md",
+    "运维/测试/自动驾驶",
+    "python/技巧/数组.md",
+    "运维/测试/测试问题/2025问题/TCP.md",
+    "python/技巧",
+    "运维/测试/测试问题/2025问题/pytest.md",
+    "运维/测试/测试问题/2025问题/mysql 索引.md",
+    "运维/测试/测试问题/2025问题/get和post.md",
+    "运维/测试/测试问题/2025问题/性能压测.md",
+    "运维/测试/测试问题/2025问题/数据库事务.md",
+    "运维/测试/测试问题/2025问题/接口测试.md",
+    "运维/测试/测试问题/2025问题/测试策略.md",
+    "运维/测试/测试问题/2025问题/kafka/kafka.md",
+    "运维/测试/测试问题/2025问题/kafka/kafka数据积压.md",
+    "运维/测试/测试问题/2025问题/kafka",
     "diary/2024/20240918_周三.md",
-    "diary/2024/20240318_周一.md",
-    "Windows/环境变量/path列表.md",
-    "linux/Ubuntu/python环境.md",
-    "node/vue/pnpm使用篇.md",
-    "node/认知篇.md",
+    "work/运维方向.md",
+    "运维/测试/设计测试用例/设计方法.md",
+    "运维/测试/测试问题/网络的七层架构.md",
+    "运维/测试/测试问题/并发中的缓存问题.md",
+    "运维/测试/测试问题/2025问题/ES特性.md",
+    "运维/测试/测试问题/2025问题/clickhoue特性.md",
+    "运维/测试/设计测试用例",
+    "运维/测试/测试问题/2025问题",
+    "运维/测试/测试工具/nexus.md",
+    "python/环境/conda/常用命令.md",
+    "爬虫/斗罗/所见即所得.md",
+    "爬虫/斗罗",
+    "运维/测试/测试工具/工具差异性.md",
+    "运维/测试/测试问题",
+    "运维/测试/App测试.md",
+    "运维/测试/测试工具/Charles Proxy",
+    "运维/测试/测试工具",
+    "运维/测试",
+    "运维/windows/清理C盘.md",
+    "Pasted image 20250302194536.png",
+    "Pasted image 20241101231327.png",
+    "Pasted image 20241019232629.png",
+    "Pasted image 20241019230910.png",
     "Pasted image 20240820002915.png",
     "Pasted image 20240820002854.png",
     "Pasted image 20240816001033.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b.png",
     "node/vue/assets/5cfddd57097349939e02c0d6f37ee00b-1717314375164-1.png",
     "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1-1710863383565-3.png",
-    "爬虫/kingname/MongoDB/assets/image-20240319234935464-1710863381084-1.png",
     "未命名.canvas"
   ]
 }

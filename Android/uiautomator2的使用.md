@@ -11,3 +11,5 @@ java.lang.SecurityException: Injecting input events requires the caller (or the 
 ```
 
 ![[Pasted image 20241101231327.png]]
+
+![[Pasted image 20250302194536.png]]
