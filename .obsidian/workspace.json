@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "50fa9e648d793adf",
+        "id": "d52c6054b8070f53",
         "type": "tabs",
         "children": [
           {
-            "id": "7dcb9f6f963aef99",
+            "id": "e3078f2d40b12b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/测试/自动驾驶/自动驾驶.md",
+                "file": "work/大数据/大数据性能指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自动驾驶"
+              "title": "大数据性能指标"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/测试/自动驾驶/自动驾驶.md",
+                "file": "work/大数据/大数据性能指标.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自动驾驶 的大纲"
+              "title": "大数据性能指标 的大纲"
             }
           }
         ],
@@ -177,10 +177,18 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "7dcb9f6f963aef99",
+  "active": "e3078f2d40b12b6e",
   "lastOpenFiles": [
-    "python/技巧/字典.md",
+    "work/SQL/数据仓库.md",
+    "work/大数据/大数据性能指标.md",
+    "work/大数据",
+    "work/SQL/关键字/group by.md",
+    "work/SQL/最高分数查询.md",
+    "work/SQL/未命名.md",
+    "work/SQL/关键字",
+    "work/SQL",
     "运维/测试/自动驾驶/自动驾驶.md",
+    "python/技巧/字典.md",
     "运维/测试/自动驾驶",
     "python/技巧/数组.md",
     "运维/测试/测试问题/2025问题/TCP.md",
@@ -205,16 +213,8 @@
     "运维/测试/设计测试用例",
     "运维/测试/测试问题/2025问题",
     "运维/测试/测试工具/nexus.md",
-    "python/环境/conda/常用命令.md",
-    "爬虫/斗罗/所见即所得.md",
     "爬虫/斗罗",
-    "运维/测试/测试工具/工具差异性.md",
     "运维/测试/测试问题",
-    "运维/测试/App测试.md",
-    "运维/测试/测试工具/Charles Proxy",
-    "运维/测试/测试工具",
-    "运维/测试",
-    "运维/windows/清理C盘.md",
     "Pasted image 20250302194536.png",
     "Pasted image 20241101231327.png",
     "Pasted image 20241019232629.png",

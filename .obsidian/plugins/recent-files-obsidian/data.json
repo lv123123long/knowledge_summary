@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "大数据性能指标",
+      "path": "work/大数据/大数据性能指标.md"
+    },
+    {
+      "basename": "数据仓库",
+      "path": "work/SQL/数据仓库.md"
+    },
+    {
+      "basename": "group by",
+      "path": "work/SQL/关键字/group by.md"
+    },
+    {
+      "basename": "最高分数查询",
+      "path": "work/SQL/最高分数查询.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "work/SQL/未命名.md"
+    },
+    {
       "basename": "自动驾驶",
       "path": "运维/测试/自动驾驶/自动驾驶.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Unknown at rule @xxx的警告",
       "path": "node/ERROR/Unknown at rule @xxx的警告.md"
-    },
-    {
-      "basename": "github-jsDelivr-pictlist",
-      "path": "blog/图床/github-jsDelivr-pictlist.md"
-    },
-    {
-      "basename": "Astro Github Active",
-      "path": "blog/Astro/Astro Github Active.md"
-    },
-    {
-      "basename": "初始化安装",
-      "path": "blog/Astro/初始化安装.md"
-    },
-    {
-      "basename": "报错排查",
-      "path": "node/Astro/报错排查.md"
-    },
-    {
-      "basename": "Qwen-Coder",
-      "path": "Ai/qwen/Qwen-Coder.md"
     }
   ],
   "omittedPaths": [],
